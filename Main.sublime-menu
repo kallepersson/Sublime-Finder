@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Finder",
+                "children":
+                [
+                    { "command": "open_finder", "caption": "Open Finder here" }
+                ]
+            }
+
+        ]
+    }
+]

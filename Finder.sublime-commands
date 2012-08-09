@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Finder: Open here",
+        "command": "open_finder"
+    }
+]
