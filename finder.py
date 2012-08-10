@@ -20,8 +20,5 @@ class OpenFinderCommand(sublime_plugin.WindowCommand, FinderCommand):
 
         path = self.get_path(paths)
 
-        if os.path.isfile(path):
-            path = os.path.dirname(path)
-
-        arg = ['open', path]
+        arg = ['open', '-R', path]
         subprocess.Popen(arg)
