@@ -7,18 +7,17 @@
 			"details": "https://github.com/kallepersson/Sublime-Finder",
 			"description": "Provides a command for opening Finder in the current directory",
 			"author": "Kalle Persson",
-			"labels": ["finder","integration"],
-			"homepage": "http://kallepersson.se/sublimefinder",
-			"last_modified": "2014-04-19 10:00:00",
-			"platforms": {
-				"osx": [
-					{
-						"version": "1.1.0",
-						"sublime_text": "*",
-						"url": "https://github.com/kallepersson/Sublime-Finder/archive/1.0.zip"
-					}
-				]
-			}
+			"labels": ["finder", "integration"],
+			"last_modified": "",
+			"releases": [
+				{
+					"platforms": ["osx"],
+					"version": "1.1.0",
+					"sublime_text": "*",
+					"date": "2014-04-19 10:00:00",
+					"url": "https://github.com/kallepersson/Sublime-Finder/archive/1.0.zip"
+				}
+			]
 		}
 	]
 }
