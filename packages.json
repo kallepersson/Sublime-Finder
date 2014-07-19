@@ -12,10 +12,8 @@
 			"releases": [
 				{
 					"platforms": ["osx"],
-					"version": "1.1.0",
 					"sublime_text": "*",
-					"date": "2014-04-19 10:00:00",
-					"url": "https://github.com/kallepersson/Sublime-Finder/archive/1.0.zip"
+					"details": "https://github.com/kallepersson/Sublime-Finder/tags"
 				}
 			]
 		}
