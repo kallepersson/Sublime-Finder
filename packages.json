@@ -8,7 +8,6 @@
 			"description": "Provides a command for opening Finder in the current directory",
 			"author": "Kalle Persson",
 			"labels": ["finder", "integration"],
-			"last_modified": "",
 			"releases": [
 				{
 					"platforms": ["osx"],
